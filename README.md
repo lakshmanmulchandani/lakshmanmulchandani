@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmanmulchandani" alt="lakshmanmulchandani" /></a> </p>
 
-- 🔭 I’m currently working on [My Memories](https://github.com/lakshmanmulchandani/my-memories-client)
-
 - 💬 Ask me about **React**
 
 - ⚡ Fun fact **I remember announcing at home "Finally tomorrow is sunday,I will just relax and do nothing" as a 7 year old.**
